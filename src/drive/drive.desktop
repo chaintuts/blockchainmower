@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=BlockchainAsset
+Exec=xterm -hold -e 'cd /home/pi/blockchainmower/bin/blockchainmower/ && /usr/bin/python3 drive.py'
