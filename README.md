@@ -8,7 +8,7 @@ ____________
 * jmcintyre.net
 
 ### Overview
-* BlockchainMower is a Proof-of-Concept for tokenized real-world assetss
+* BlockchainMower is a Proof-of-Concept for tokenized real-world assets
 
 ## Development
 ________________
